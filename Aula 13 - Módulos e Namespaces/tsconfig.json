@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "app/js",
+        "noEmitOnError": true,
+        "strictNullChecks": true,
+        "experimentalDecorators": true,
+        "outFile": "app/js/app.js" // Transpila todos os arquivos ts em um único arquivo js indicado por outFile
+        // ao invés de um arquivo js para cada arquivo ts.
+
+    },
+
+    "include": [
+        "app/ts/**/*"
+    ]
+}
