@@ -1,1 +1,3 @@
-# Introdução ao TypeScrpit
+# TypeScript101
+
+Introdução ao TypeScrpit
